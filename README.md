@@ -1,7 +1,7 @@
 # MMDRFuse <img width="32" alt="MMDRFuse Icon" src="figs/logo.png">
 Yanglin Deng, Tianyang Xu, Chunyang Cheng,Xiao-jun Wu, Josef Kittler,
 "MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion", ACM International Conference on Multimedia(ACM MM), 2024.(Oral).
-
+The paper can be found [here](http://arxiv.org/abs/2408.15641).
 ---
 ![Abstract](figs/motivation.png)
 ---
