@@ -10,17 +10,16 @@ Right: Supervision designs of our MMDRFuse, where digestible distillation refers
 
 ## Experimental results display
 Quantitative ablation study for each component on MSRS(The boldface shows the best value).
-![ablation](figs/ablation.png)
+<img src="figs//ablation.png" width="60%" align=center />
 
 Quantitative results of IVIF task on LLVIP(Boldface and underline show the best and second-best values):
-![LLVIP_1](figs/LLVIP_1.png)
+<img src="figs//LLVIP_1.png" width="60%" align=center />
 
-Qualitative results of IVIF task and MIF task on LLVIP:
-![LLVIP_2](figs/LLVIP_2.png)
+Qualitative results of IVIF task on LLVIP:                                                
+<img src="figs//LLVIP_2.png" width="60%" align=center />
 
 Comparison in terms of average detection precision and average speed for RGB-T pedestrian detection.
-![detection](figs/detection.png)
-
+<img src="figs//detection.png" width="60%" align=center />
 
 
 ## Virtual Environment
