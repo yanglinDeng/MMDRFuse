@@ -62,13 +62,13 @@ class tea_net(nn.Module):
             nn.ReLU());
         self.conv11 = nn.Sequential(
             nn.ReflectionPad2d(1),
-            nn.Conv2d(out_channels_def * 2, 6, kernel_size=3, stride=1),
+            nn.Conv2d(out_channels_def * 2, 4, kernel_size=3, stride=1),
             );
         self.act1 = nn.Sequential(nn.ReLU())
 
         self.conv00 = nn.Sequential(
             nn.ReflectionPad2d(1),
-            nn.Conv2d(6, 1, kernel_size=3, stride=1),
+            nn.Conv2d(4, 1, kernel_size=3, stride=1),
             );
         self.act2 = nn.Sequential(nn.Tanh())
 
